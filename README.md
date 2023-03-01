@@ -9,7 +9,7 @@ Meu foco é Análise e Ciência de Dados 🎲
 <div> 
 
 <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=GleiceAraujo22&show_icons=true&theme=tokyonight"/> 
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleiceAraujo22&layout=compact&theme=tokyonight"/>
+<img height= "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleiceAraujo22&layout=compact&theme=tokyonight"/>
 </div> 
 
  ### 🤖 Let's get connected:  
