@@ -1,7 +1,7 @@
 ### Olá! 
 
 Eu sou a Gleice Araújo 👋 
-
+Sou Analista Financeiro
 
 Meu foco é Análise e Ciência de Dados 🎲
 
