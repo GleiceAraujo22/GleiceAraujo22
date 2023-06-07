@@ -1,4 +1,4 @@
-### Olá! 
+### Hey there! 
 
 Eu sou a Gleice Araújo 👋 
 Sou Analista Financeiro
@@ -8,8 +8,8 @@ Atualmente estudo Análise e Ciência de Dados 🎲
 
 <div> 
 
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=GleiceAraujo22&show_icons=true&theme=tokyonight"/> 
-<img height= "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleiceAraujo22&layout=compact&theme=tokyonight"/>
+<img height= "150em" src="https://github-readme-stats.vercel.app/api?username=GleiceAraujo22&show_icons=true&theme=tokyonight"/> 
+<img height= "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleiceAraujo22&layout=compact&theme=tokyonight"/>
 </div> 
 
  ### 🤖 Let's get connected:  
