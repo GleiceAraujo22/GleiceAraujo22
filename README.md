@@ -1,8 +1,6 @@
 ### Hey there! 
 
 Eu sou a Gleice Araújo 👋 
-Sou Analista Financeiro
-
 Atualmente estudo Análise e Ciência de Dados 🎲
 
 
