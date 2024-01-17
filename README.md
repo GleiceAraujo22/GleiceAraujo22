@@ -1,4 +1,6 @@
-### Hey there! 
+<p align="center">
+  <img src="https://github.com/GleiceAraujo22/GleiceAraujo22/raw/main/assets/header-github.gif" alt="Oi, eu sou a Gleice">
+</p>
 
 Eu sou a Gleice Araújo 👋 
 Atualmente estudo Análise e Ciência de Dados 🎲
