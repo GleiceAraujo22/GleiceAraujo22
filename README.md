@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GleiceAraujo22/GleiceAraujo22/raw/main/assets/header-github.gif" alt="Oi, eu sou a Gleice">
+  <img src="https://github.com/GleiceAraujo22/GleiceAraujo22/raw/main/assets/he4der-readme.gif" alt="Oi, eu sou a Gleice">
 </p>
 
 Eu sou a Gleice Araújo 👋 
