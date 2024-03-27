@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Oi 👋, Eu sou a Gleice</h1>
-Sou uma profissional em ✨transição de carreira para ciência de dados✨. Tenho mais de cinco anos de experiência como Analista administravo e Financeiro generalista. Este repositório é o meu espaço para compartilhar meu progresso, projetos e aprendizados nesta jornada 👨‍💻
+Sou uma profissional em ✨transição de carreira para ciência de dados✨Tenho mais de cinco anos de experiência como Analista administravo e Financeiro generalista. Este repositório é o meu espaço para compartilhar meu progresso, projetos e aprendizados nesta jornada 👨‍💻
 
 </p>
 </p> 
