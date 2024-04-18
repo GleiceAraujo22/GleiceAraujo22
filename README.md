@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Oi!👋 Bem-vindo(a), me chamo Gleice! </h1>
-Sou uma profissional em ✨transição de carreira e atualmente focada em análise e ciência de dados✨Tenho mais de cinco anos de experiência como Analista administravo e Financeiro generalista.  
+Sou autodidata e uma profissional em ✨transição de carreira, atualmente focada em análise e ciência de dados✨Tenho bacharelado em Administração e possuo mais de cinco anos de experiência como Analista administrativo e Financeiro generalista.  
 
 
 
@@ -9,7 +9,7 @@ Sou uma profissional em ✨transição de carreira e atualmente focada em análi
 </p>  
 <h2 align="left">🗨 Um Pouco Mais Sobre mim:</h2>
 
-- 👩‍💻 Este repositório é o meu espaço para compartilhar meu progresso, projetos e aprendizados
+- 👩‍💻 Este repositório é o meu espaço para compartilhar meu progresso, projetos e aprendizados em análise e ciência de dados
 - 📈 Trabalho com Excel desde 2014
 - 🌱 Atualmente estou focada em: **SQL, python, Power BI, machine learning etc** 
 - 💬 Estou sempre aberta a oportunidades de colaboração e aprendizado.
