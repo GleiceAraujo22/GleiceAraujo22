@@ -11,7 +11,7 @@ Sou autodidata e uma profissional em ✨transição de carreira, atualmente foca
 
 - 👩‍💻 Este repositório é o meu espaço para compartilhar meu progresso, projetos e aprendizados em análise e ciência de dados
 - 📈 Trabalho com Excel desde 2014
-- 🌱 Atualmente estou focada em: **SQL, python, Power BI, machine learning etc** 
+- 🌱 Atualmente estou focada em: **SQL, python, Power BI, machine learning** 
 - 💬 Estou sempre aberta a oportunidades de colaboração e aprendizado.
 - 🤝 Se você quiser trocar ideias, discutir projetos ou apenas bater um papo, sinta-se à vontade para me contatar! 
 
