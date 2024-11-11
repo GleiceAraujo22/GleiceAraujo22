@@ -38,9 +38,17 @@ Sou autodidata e uma profissional em ✨transição de carreira, atualmente foca
  </p>         
 
 
-
+<h2 align="left">✍️ Meus Artigos no Medium</h2>
  
+* [1. Analisando Dados de Vendas: Uma Abordagem Direta com SQLite e Dbeaver](https://medium.com/@gleicearaujo638/analisando-dados-de-vendas-15d780d10be5)
+  
+* [2. Medidas de Dispersão: O que são e por que são importantes?](https://medium.com/@gleicearaujo638/medidas-de-dispersão-o-que-são-e-por-que-são-importantes-ed39d75d1b30)
 
+* [3. Estatística Descritiva na Prática: Explorando o Dataset do iFood com Python](https://medium.com/@gleicearaujo638/estatística-descritiva-na-prática-insights-com-o-dataset-do-ifood-0eb07dd3b2dd)
+
+* [4. Análise de Dados na Prática — Google Sheets — Parte 1 - Limpeza e Tratamento](https://medium.com/@gleicearaujo638/análise-de-dados-na-prática-google-sheets-parte-1-c966f4664fff)
+  
+* [5. Análise de Dados na Prática - Google Sheets - Parte 2 - Tabela Dinâmica e Gráficos](https://medium.com/@gleicearaujo638/análise-de-dados-na-prática-google-sheets-parte-2-tabela-dinâmica-e-gráficos-46968b05294b)
  
  
 
