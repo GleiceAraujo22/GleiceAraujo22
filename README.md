@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Oi!👋 Bem-vindo(a), me chamo Gleice! </h1>
-Sou autodidata e uma profissional em ✨transição de carreira, atualmente focada em análise e ciência de dados✨sou bacharel em Administração e possuo mais de cinco anos de experiência como Analista administrativo e Financeiro generalista.  
+Sou autodidata e uma profissional em ✨transição de carreira, atualmente focada em análise e ciência de dados✨sou bacharel em Administração e possuo mais de sete anos de experiência como Analista administrativo e Financeiro generalista.  
 
 
 
